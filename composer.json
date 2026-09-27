@@ -20,7 +20,7 @@
         "map": [
             [
                 "*",
-                "lib/internal/NotoSans"
+                "NotoSans"
             ]
         ]
     }
