@@ -19,7 +19,7 @@
     "extra": {
         "map": [
             [
-                "*",
+                "lib/internal/NotoSans",
                 "NotoSans"
             ]
         ]
