@@ -1,13 +1,12 @@
 {
-    "name": "gw/module-notosans",
-    "version": "1.0.0",
-    "description": "N/A",
+    "name": "gwharton/module-notosans",
+    "description": "GWharton NotoSans Module",
     "type": "magento2-module",
     "require": {
         "magento/framework": "*"
     },
     "license": [
-        "Open Software License (OSL)"
+        "OSL-3.0"
     ],
     "autoload": {
         "files": [
