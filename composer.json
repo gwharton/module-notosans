@@ -8,19 +8,19 @@
     "license": [
         "OSL-3.0"
     ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Gw\\NotoSans\\": ""
-        }
-    },
     "extra": {
         "map": [
             [
                 "lib/internal/NotoSans/*",
                 "NotoSans"
+            ],
+            [
+                "lib/internal/NotoSans-arabic/*",
+                "NotoSans-arabic"
+            ],
+            [
+                "lib/internal/NotoSans-cjk/*",
+                "NotoSans-cjk"
             ]
         ]
     }
