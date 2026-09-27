@@ -1,7 +1,7 @@
 {
     "name": "gwharton/module-notosans",
     "description": "GWharton NotoSans Module",
-    "type": "magento2-module",
+    "type": "magento2-library",
     "require": {
         "magento/framework": "*"
     },
@@ -19,7 +19,7 @@
     "extra": {
         "map": [
             [
-                "lib/internal/NotoSans",
+                "*",
                 "lib/internal/NotoSans"
             ]
         ]
